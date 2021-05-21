@@ -1,0 +1,19 @@
+{
+  "name": "nepoimjshto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.14.3",
+    "@babel/traverse": "^7.14.2"
+  }
+}
